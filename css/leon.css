@@ -341,6 +341,9 @@ max-width: 100%;
         flex-direction: column;
         text-align: center;
     }
+    .about-content .image::after {
+        display: none;
+    }
 }
 .about-content hr {
     background-color: var(--main-color);
