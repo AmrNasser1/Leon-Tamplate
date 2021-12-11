@@ -327,7 +327,7 @@ max-width: 100%;
     position: absolute;
     top: -40px;
     right: -150px;
-    width: 120px;
+    width: 80px;
     height: 300px;
     border-left: 80px solid var(--main-color);
     border-bottom: 80px solid var(--main-color);
